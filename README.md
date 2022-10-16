@@ -1,8 +1,8 @@
-# CSCI470-Spaceship-Titanic
+# [CSCI470-Spaceship-Titanic](https://www.kaggle.com/competitions/spaceship-titanic)
 
 Starts 9/22/22 $\longrightarrow$ TBA
 
-## Team Members
+## [Team Members](https://www.kaggle.com/competitions/spaceship-titanic/team)
 
 - Justin Hoang
 - Andrew Depke
